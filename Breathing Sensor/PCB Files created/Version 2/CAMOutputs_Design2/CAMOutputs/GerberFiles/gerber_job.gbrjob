@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-06T17:11:35Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ecgdesign4"
+        },
+        "Owner": "Michael Jimenez <michael_13@tamu.edu>",
+        "Size": {
+            "X": 248.9,
+            "Y": 127.94
+        }
+    }
+}

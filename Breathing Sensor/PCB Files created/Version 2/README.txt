@@ -1,0 +1,1 @@
+scrapped because SMD chips are garbage and I hate them.

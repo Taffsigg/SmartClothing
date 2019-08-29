@@ -1,0 +1,1 @@
+New design based arround elastic resistor after piezoelectric sensor didn't work as expected.
