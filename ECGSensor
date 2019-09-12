@@ -1,4 +1,4 @@
-Week 09/04
+Week02: (September 04)
     Tasks for the week:
         -edit ECG circuit to contain voltage followers at the input stage RightInput(RI),LeftInput(LI), RightGround(RG) input
         -edit ECG amplifiers from surface mount to regular chips
@@ -6,7 +6,7 @@ Week 09/04
         -integrate the filters to the instrumentation amplifier
    Future Tasks:
        -create ECG PCB design/order ECG pcb design
-Week 09/11
+Week 03: (September 11)
     Tasks for the week:
         -order new amplifiers(comporator, instrumentation amplifier, and amplifier for anti-aliasing)
         -order ECG pcb design by thursday(09/12)
@@ -18,3 +18,4 @@ Week 09/11
         -(possible blood sensor module)
         -communicate with ECG Design with microcontroller
       
+Week 04: (September 18)
