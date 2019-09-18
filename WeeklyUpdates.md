@@ -39,7 +39,7 @@ Michael Jimenez - ECG Subsystem
 1. test ECG pcb board 
 2. test comporator pcb board
 3. electrode wiring in the pbb 
-4. start communicating with ADC module 
+4. start communicating with ADC module/microcontroller
 
 ### Week of 9/23
 
