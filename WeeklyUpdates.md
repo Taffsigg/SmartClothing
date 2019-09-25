@@ -34,6 +34,8 @@ Michael Jimenez - ECG Subsystem
 Aaron Whitehead - Application Subsystem
 
 Ervin Lopez - Microcontroller and Power Subsystem
+1. Enabled bluetooth connection between Android phone and microcontroller.
+2. Enabled data transfer from Android phone to microcontroller.
 
 Michael Jimenez - ECG Subsystem
 1. test ECG pcb board 
