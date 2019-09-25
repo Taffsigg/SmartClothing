@@ -38,11 +38,18 @@ Ervin Lopez - Microcontroller and Power Subsystem
 2. Enabled data transfer from Android phone to microcontroller.
 
 Michael Jimenez - ECG Subsystem
-1. test ECG pcb board 
-2. test comporator pcb board
+1. test ECG pcb board (waiting for arrival)
+2. test comporator pcb board (waiting for arrival)
 3. electrode wiring in the pbb 
 4. start communicating with ADC module/microcontroller
 
 ### Week of 9/23
+
+Michael Jimenez - ECG Subsystem
+1. test ECG pcb board (waiting for arrival)
+2. test comporator pcb board (waiting for arrival)
+3. electrode wiring in the pbb 
+4. start communicating with ADC module/microcontroller
+5. creat the ecg and comporator on a solder board while I wait for the arrival of the PCB board
 
 ### Week of 9/30
