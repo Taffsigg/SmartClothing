@@ -44,6 +44,9 @@ Michael Jimenez - ECG Subsystem
 4. start communicating with ADC module/microcontroller
 
 ### Week of 9/23
+Ervin Lopez - Microcontroller and Power Subsystem
+1. Enabled data transfer from the microcontroller to Android phone via bluetooth.
+2. Finalization of software integration to focus on hardware integration for the rest of the semester.
 
 Michael Jimenez - ECG Subsystem
 1. test ECG pcb board (waiting for arrival)
