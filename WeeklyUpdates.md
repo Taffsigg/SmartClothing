@@ -56,3 +56,8 @@ Michael Jimenez - ECG Subsystem
 5. creat the ecg and comporator on a solder board while I wait for the arrival of the PCB board
 
 ### Week of 9/30
+Ervin Lopez - Microcontroller and Power Subsystem
+1. Tested bluetooth connection with software and tried to improve it by attempting communication protocols other than OBEX OBject Push.
+2. Ran tests using the 16-bit ADC purchased during 403. Discovered it was broken and placed an order for a new one.
+
+### Week of 10/07
