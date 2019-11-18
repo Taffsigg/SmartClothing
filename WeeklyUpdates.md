@@ -80,7 +80,7 @@ Michael Jimenez ECG Subsytems
 1. Noise Issues on PCB board and  I fixed those issue so I have decided to ORDER PCB Board on PCBGOGO
 2. Solder new board with comparotor and ECG Circuit(both outputs are noisy)
 2. Remodel PCB Board to use TRS on AUX Cord instead of TRSS
-3. Add Comparator to ECG Board to remove noise on comparator
+3. Add Comparator to ECG PCB Board to remove noise on comparator(solderable breadboard)
 
 ### Week of 10/28
 Michael Jimenez ECG Subsytems
@@ -96,7 +96,8 @@ Michael Jimenez ECG Subsytems
 
 ### Week of 11/11
 Michael Jimenez ECG Subsytems
-1. Connection ECG Subsystem with MCU is complete (Microcontroller Unit)
+1. Connection with ECG Subsystem with MCU is done (Microcontroller Unit)
+2. All subsystems are integrated with one another before installing the hardware onto the clothing outfit. 
 2. Prepare wiring that will go on the clothing 
 
 ### Week of 11/18
