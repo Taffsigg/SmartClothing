@@ -90,7 +90,7 @@ Michael Jimenez ECG Subsytems
 
 ### Week of 11/04
 Michael Jimenez ECG Subsytems
-1.Fix Comparator issues by adjusting voltage to 2.77V
+1. Fix Comparator issues by adjusting voltage to 2.77V
 2. Run ECG Sysstem on a 3 Double AA battery 
 3. Start Communication with MCU
 
