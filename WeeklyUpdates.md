@@ -60,4 +60,51 @@ Ervin Lopez - Microcontroller and Power Subsystem
 1. Tested bluetooth connection with software and tried to improve it by attempting communication protocols other than OBEX OBject Push.
 2. Ran tests using the 16-bit ADC purchased during 403. Discovered it was broken and placed an order for a new one.
 
+Michael Jimenez ECG Subsytems
+1. Waiting on arrival of PCB Boards from ZACHARY  
+2. Created Soldorable Breadboard for ECG and it is not working
+3. Decided to use PCBGO GO to order PCB Boards
 ### Week of 10/07
+Michael Jimenez ECG Subsytems
+1. THE ECG Board Arrived and soldered components
+2. Amplifiers are not working as planned. I have decided to reorder amplifiers that were used last semester from AD620 to INA2128
+
+### Week of 10/14
+Michael Jimenez ECG Subsytems
+1. Soldered a Comporator on a Protoboard and noise issues  were detected on the board
+2. Order PCB Boards on PCB GO GO
+3. Waited on Amplifiers and new PCB Board to arrive
+
+### Week of 10/21
+Michael Jimenez ECG Subsytems
+1. Noise Issues on PCB board and  I fixed those issue so I have decided to ORDER PCB Board on PCBGOGO
+2. Solder new board with comparotor and ECG Circuit(both outputs are noisy)
+2. Remodel PCB Board to use TRS on AUX Cord instead of TRSS
+3. Add Comparator to ECG Board to remove noise on comparator
+
+### Week of 10/28
+Michael Jimenez ECG Subsytems
+1. Fix Noise Issues on the ECG Model and Comparator
+2. Order new Board on PCB GOGO with the comparator outputting a 2.77V
+3. Ordered Power Supply for ECG Circuit by buying a case of 3 Double AA batteries
+
+### Week of 11/04
+Michael Jimenez ECG Subsytems
+1.Fix Comparator issues by adjusting voltage to 2.77V
+2. Run ECG Sysstem on a 3 Double AA battery 
+3. Start Communication with MCU
+
+### Week of 11/11
+Michael Jimenez ECG Subsytems
+1. Connection ECG Subsystem with MCU is complete (Microcontroller Unit)
+2. Prepare wiring that will go on the clothing 
+
+### Week of 11/18
+Michael Jimenez-ECG Subsystems 
+1. Wire all hardware onto the clothing outfit
+2. Run tests and validation
+3. Complete Video
+
+### Week of 11/25
+1. Present Demo on Monday (11/25 at 2:30 pm)
+2. Work on Final Report
