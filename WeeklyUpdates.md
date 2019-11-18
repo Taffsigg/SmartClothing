@@ -97,7 +97,7 @@ Michael Jimenez ECG Subsytem
 ### Week of 11/11
 Michael Jimenez ECG Subsytem
 1. Connection with ECG Subsystem with MCU is done (Microcontroller Unit)
-2. All subsystems are integrated with one another before installing the hardware onto the clothing outfit. 
+2. All subsystems are integrated before installing the hardware onto the clothing outfit. 
 2. Prepare wiring that will go on the clothing 
 
 ### Week of 11/18
